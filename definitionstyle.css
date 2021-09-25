@@ -1,0 +1,33 @@
+/*Dokumen CSS*/
+
+biodata1 {
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:14px;
+    color:rgb(56, 3, 3);
+}
+
+.riwayat_pendidikan {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size:14px;
+    color:rgb(67, 4, 4);
+}
+
+#pengalaman{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size:14px;
+    color:rgb(60, 7, 7);
+}
+
+p{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+td{
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    font-size:14px; 
+    color:rgb(67, 4, 4);
+}
+
+a{
+    font-size: 14px;
+}
